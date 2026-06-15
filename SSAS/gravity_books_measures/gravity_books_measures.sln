@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "gravity_books_measures", "gravity_books_measures.dwproj", "{AD078641-1788-5861-251D-1E6F8DF1FC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD078641-1788-5861-251D-1E6F8DF1FC62}.Development|Default.ActiveCfg = Development
+		{AD078641-1788-5861-251D-1E6F8DF1FC62}.Development|Default.Build.0 = Development
+		{AD078641-1788-5861-251D-1E6F8DF1FC62}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2347D088-F7F4-4B3D-867F-BEE777ECA9AE}
+	EndGlobalSection
+EndGlobal
